@@ -56,7 +56,7 @@ namespace TicTacToe
                 {
                     Console.Clear();
                     PrintBoard();
-                    Console.WriteLine("Draw.. Game Over");
+                    Console.WriteLine("Draw.. Game Over..");
                     break;
                 }
             }
